@@ -15,7 +15,7 @@ extern const char _sPrinterMmuName[] PROGMEM;
 extern uint16_t nPrinterType;
 extern PGM_P sPrinterName;
 
-// Firmware version
+// Firmware version TheZeroBeast, update to 3.9.1 by Ruhkukah
 #define FW_VERSION "3.9.1"
 #define FW_COMMIT_NR 3518
 // FW_VERSION_UNKNOWN means this is an unofficial build.
